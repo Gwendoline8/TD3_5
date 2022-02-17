@@ -1,7 +1,7 @@
 MAREK_MAUREY_MARCHESSAUX_MULLER
 # TD3_5
-#LL
-#II
-#NN
-#UU
-XX
+#L
+#I
+#N
+#U
+#X
