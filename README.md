@@ -1,6 +1,6 @@
 # TD3_5
-#L
-#I
-#N
-#U
-#X
+#LL
+#II
+#NN
+#UU
+XX
